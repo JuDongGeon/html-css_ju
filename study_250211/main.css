@@ -1,0 +1,23 @@
+/* main.css */
+
+#wrap {
+  width: 1200px;
+  margin: 0 auto;
+}
+#header {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+#main {
+  display: flex;
+}
+.left {
+  width: 50%;
+}
+.right {
+  width: 50%;
+}
+.box {
+  padding: 100px 150px;
+}
