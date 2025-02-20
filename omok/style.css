@@ -1,0 +1,22 @@
+#table {
+  position: absolute;
+  background-color: blanchedalmond;
+  width: 360px;
+  height: 360px;
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+#go {
+  border: 1px solid;
+  position: absolute;
+  margin: 10px;
+  width: 360px;
+  height: 360px;
+  border-collapse: collapse;
+}
+
+.square {
+  border: thin solid lightgray;
+  padding: 0;
+}
